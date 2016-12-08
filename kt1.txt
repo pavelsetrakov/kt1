@@ -1,1 +1,2 @@
 Commit 1 to master
+Commit 2 to master
